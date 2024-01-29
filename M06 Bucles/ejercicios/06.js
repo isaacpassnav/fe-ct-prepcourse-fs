@@ -3,5 +3,10 @@ function tieneTresDigitos(num) {
   // Caso contrario, retorna false.
   // Tu código:
 }
+var tresDigitos = tieneTresDigitos.toString;
+
+while(tresDigitos.length() ===3){
+  return true;
+}
 
 module.exports = tieneTresDigitos;

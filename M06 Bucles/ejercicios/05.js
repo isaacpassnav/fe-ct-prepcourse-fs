@@ -3,5 +3,11 @@ function esVerdadero(valor) {
   // Caso contrario, retorna "Soy falso".
   // Tu código:
 }
+while(esVerdadero === true){
+  return "Soy verdadero";
+  
+}
+return "Soy falso";
+
 
 module.exports = esVerdadero;

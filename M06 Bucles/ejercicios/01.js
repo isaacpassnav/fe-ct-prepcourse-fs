@@ -4,5 +4,9 @@ function esIgualYNegativo(a, b) {
   // De ser así, retorna true, de lo contrario, retorna false.
   // Tu código:
 }
+if(esIgualYNegativo === esIgualYNegativo){
+  true
+};
+
 
 module.exports = esIgualYNegativo;

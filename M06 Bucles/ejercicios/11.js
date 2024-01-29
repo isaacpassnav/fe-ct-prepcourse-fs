@@ -4,4 +4,11 @@ function estaEnRango(num) {
   // Tu código:
 }
 
+for(var i=20; i<50; i++){
+  if(i==num){
+    return true;
+  }
+}
+return false;
+
 module.exports = estaEnRango;

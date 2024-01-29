@@ -4,5 +4,9 @@ function mayoriaDeEdad(edad) {
   // Caso contrario: "Not allowed".
   // Tu código:
 }
+while(edad < 18){
+  return "Not allowed";
+}
+return "Allowed";   
 
 module.exports = mayoriaDeEdad;

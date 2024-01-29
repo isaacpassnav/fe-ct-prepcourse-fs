@@ -4,5 +4,9 @@ function esPositivoOInferiorA10(a) {
   // Retorna false en caso contrario.
   // Tu código:
 }
+while(esPositivoOInferiorA10<10){
+  return true;
+  
+}
 
 module.exports = esPositivoOInferiorA10;

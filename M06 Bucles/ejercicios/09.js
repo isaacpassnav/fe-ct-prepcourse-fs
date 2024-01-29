@@ -7,4 +7,16 @@ function conection(status) {
   // Tu código:
 }
 
+var estadoDeUsuario = conection();
+for(var i=0; i== estadoDeUsuario; i++){
+  if(estadoDeUsuario===1){
+    return "Online";
+  }
+  else if(estadoDeUsuario===2){
+    return "Away";
+  }else{
+    return "Offline";
+  }
+  }
+
 module.exports = conection;

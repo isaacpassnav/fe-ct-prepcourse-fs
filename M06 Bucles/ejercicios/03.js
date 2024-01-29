@@ -5,4 +5,10 @@ function obtenerMayor(x, y) {
   // Tu código:
 }
 
+while(x !== y || x <y ){
+  return x;
+} return y;
+masGrande = obtenerMayor(x, y);
+console.log(masGrande);
+
 module.exports = obtenerMayor;

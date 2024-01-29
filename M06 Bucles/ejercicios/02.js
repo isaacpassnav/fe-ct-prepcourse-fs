@@ -3,5 +3,8 @@ function esVerdaderoYFalso(booleano1, booleano2) {
   // Retorna true si ambos son verdaderos, caso contrario, retorna false.
   // Tu código:
 }
+while(esVerdaderoYFalso === esVerdaderoYFalso){
+  return true
+};
 
 module.exports = esVerdaderoYFalso;
